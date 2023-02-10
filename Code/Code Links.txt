@@ -1,0 +1,3 @@
+JavaFX project - https://github.com/MatteoBasili/MyPetJavaFX
+
+Android project - https://github.com/MatteoBasili/MyPetAndroid
